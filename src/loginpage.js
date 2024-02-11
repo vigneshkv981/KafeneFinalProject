@@ -17,7 +17,6 @@ function Login() {
             alert('Login Successful!!');
             localStorage.setItem('loginStatus', true);
             setLoginStatus(true);
-            // window.location.replace('./orders');
             navigate('/orders');
         } else {
             alert('Please Enter Valid Credentials');
