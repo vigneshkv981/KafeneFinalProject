@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KafeneFinalProject/static/css/main.8754156e.css",
+    "main.js": "/KafeneFinalProject/static/js/main.ca0f54aa.js",
+    "static/js/592.306a2e25.chunk.js": "/KafeneFinalProject/static/js/592.306a2e25.chunk.js",
+    "index.html": "/KafeneFinalProject/index.html",
+    "main.8754156e.css.map": "/KafeneFinalProject/static/css/main.8754156e.css.map",
+    "main.ca0f54aa.js.map": "/KafeneFinalProject/static/js/main.ca0f54aa.js.map",
+    "592.306a2e25.chunk.js.map": "/KafeneFinalProject/static/js/592.306a2e25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8754156e.css",
+    "static/js/main.ca0f54aa.js"
+  ]
+}
