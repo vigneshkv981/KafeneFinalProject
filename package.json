@@ -19,8 +19,7 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "build:stage": "env-cmd -f ./.stage.env npm run-script build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
