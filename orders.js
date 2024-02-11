@@ -69,13 +69,13 @@ function OrdersPage() {
             <p className="logo_name">Kafene</p>
           </div>
           <nav>
-            <a className="nav-items active" href="./orders">
+            <a className="nav-items active" href="/orders">
               Orders
             </a>
-            <a className="nav-items" href="./products">
+            <a className="nav-items" href="/products">
               Products
             </a>
-            <a className="nav-items" href="./users">
+            <a className="nav-items" href="/users">
               Users
             </a>
           </nav>
